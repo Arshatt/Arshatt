@@ -4,6 +4,7 @@
 
 ## Programming Languages
 ![Swift](https://img.shields.io/badge/-Swift-090909?style=for-the-badge&logo=swift&logoColor=47C5FB)
-
+![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=HTML&logoColor=47C5FB)
+![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=CSS&logoColor=47C5FB)
 
 Follow me
