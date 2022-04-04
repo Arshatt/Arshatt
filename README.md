@@ -2,6 +2,8 @@
 
 ## I'm Software Engineer 
 
-Languages and Tools
+## Programming Languages
+![Swift](https://img.shields.io/badge/-Swift-090909?style=for-the-badge&logo=swift&logoColor=47C5FB)
+
 
 Follow me
