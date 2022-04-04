@@ -9,4 +9,5 @@
 ![HTML](https://img.shields.io/badge/-Html-090909?style=for-the-badge&logo=html&logoColor=47C5FB)
 ![CSS](https://img.shields.io/badge/-Css-090909?style=for-the-badge&logo=css&logoColor=47C5FB)
 
-Follow me
+### Follow me
+![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)
